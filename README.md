@@ -1,4 +1,4 @@
-# Evil-regex-timeout-
+# Evil-regex-timeout (Solution for browser JS)
 The catastrophic backtracking caused due to an evil regex is resolved by using a web worker to perform the regex matching and performing the timeout in the main js flow.
 
 My code is tested at 
